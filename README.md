@@ -9,7 +9,7 @@
 ## run training notebooks
   - a csv file per notebook will be created: take care to give it a suitable experiment name   
 ## obtain loss and accuray train/val curves 
-  - open movienet_loss_curves.xlsx
+  - open movinet_loss_curves.xlsx
   - duplicate one of the folder, give it the experiment name
   - copy/paste the printed training output in the first cell, and that's all!
 ## calculate metrics and plot graphs of ROC / PR curves
