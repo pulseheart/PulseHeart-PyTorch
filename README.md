@@ -1,5 +1,5 @@
 # PulseHeart-PyTorch
-![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/a59fc3f5-a186-43f5-8c9b-d5944d35028e)
+![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/0da4deb9-986b-41fb-be3d-c74cf83d0e27)
 
 ## create datasets
   - rename void-movienet_50f directory as movienet_50f
@@ -9,7 +9,7 @@
 ## run training notebooks
   - a csv file per notebook will be created: take care to give it a suitable experiment name   
 ## obtain loss and accuray train/val curves 
-  - open loss_curves.xlsx
+  - open movienet_loss_curves.xlsx
   - duplicate one of the folder, give it the experiment name
   - copy/paste the printed training output in the first cell, and that's all!
 ## calculate metrics and plot graphs of ROC / PR curves
