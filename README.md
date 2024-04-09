@@ -1,5 +1,6 @@
 # PulseHeart-PyTorch
-![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/0da4deb9-986b-41fb-be3d-c74cf83d0e27)
+![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/53c1da80-f386-4a07-b9be-93a5daa5dbaa)
+
 
 ## create datasets
   - download and rename void-movienet_50f directory as movienet_50f
