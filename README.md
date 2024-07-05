@@ -1,6 +1,14 @@
 # PulseHeart-PyTorch
+
+## Article
+
+![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/781bfb36-e2f5-46c6-9ded-9b776e0ca508)
+
+https://www.mdpi.com/2075-4418/14/13/1439
+### General Flow Chart
 ![image](https://github.com/pulseheart/PulseHeart-PyTorch/assets/29145045/53c1da80-f386-4a07-b9be-93a5daa5dbaa)
 
+## Instructions for interested researcher
 
 ## create datasets
   - download and rename void-movienet_50f directory as movienet_50f
